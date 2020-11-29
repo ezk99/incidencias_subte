@@ -1,0 +1,276 @@
+FECHAyHORA,FECHA,HORA,LINEA,MOTIVO,DURACION_(MINUTOS)
+31/12/2019 20:12,31/12/2019,20:12:05,B,Servicio con demora debido a una causa tEcnica.,05
+27/12/2019 21:32,27/12/2019,21:32:08,B,Servicio con demora,05
+27/12/2019 21:14,27/12/2019,21:14:08,B,Servicio limitado entre las estaciones Leandro N. Alem y Los Incas,13
+27/12/2019 00:42,27/12/2019,00:42:08,B,Servicio con demora debido a una causa tEcnica.,53
+23/12/2019 22:30,23/12/2019,22:30:14,B,Servicio con demora por una formacion detenida debido a una causa t�cnica.,27
+23/12/2019 14:44,23/12/2019,14:44:10,B,Servicio con demora debido a la atenci�n m�dica a un usuario a bordo de formaci�n,00
+20/12/2019 13:38,20/12/2019,13:38:02,B,Servicio con demora por una formaci�n detenida debido a una causa t�cnica.,06
+18/12/2019 17:08,18/12/2019,17:08:10,B,Servicio con demora,13
+18/12/2019 16:44,18/12/2019,16:44:11,B,Servicio Limitado entre las estaciones Juan Manuel de Rosas y Medrano,15
+15/12/2019 18:26,15/12/2019,18:26:02,B,Servicio Limitado entre las estaciones Juan Manuel de Rosas y Medrano,14
+6/12/2019 22:34,06/12/2019,22:34:02,B,Servicio con demora,14
+6/12/2019 22:24,06/12/2019,22:24:07,B,Servicio Limitado entre las estaciones Juan Manuel de Rosas y Medrano,05
+5/12/2019 18:02,05/12/2019,18:02:02,B,Servicio con demora,02
+5/12/2019 17:38,05/12/2019,17:38:04,B,Servicio limitado: Alem - A. Gallardo y Dorrego - J.M. Rosas,19
+3/12/2019 21:04,03/12/2019,21:04:01,B,Servicio limitado entre las estaciones Leandro N. Alem y Federico Lacroze,04
+2/12/2019 21:44,02/12/2019,21:44:04,B,Servicio con demora debido a una causa t�cnica.,32
+29/11/2019 08:36,29/11/2019,08:36:14,B,Servicio interrumpido por medida de fuerza gremial,443
+28/11/2019 20:06,28/11/2019,20:06:12,B,Servicio con demora debido a una causa t�cnica.,12
+23/11/2019 21:26,23/11/2019,21:26:12,B,Los trenes no se detienen en la estaci�n A. Gallardo con destino a J.M. Rosas,06
+23/11/2019 21:12,23/11/2019,21:12:16,B,Los trenes no se detienen en las estaci�n Ang�l Gallardo con destino a J. M. Rosas,11
+23/11/2019 20:06,23/11/2019,20:06:08,B,Servicio interrumpido,52
+20/11/2019 13:44,20/11/2019,13:44:04,B,Servicio con demora por una formaci�n detenida debido a una causa t�cnica.,14
+20/11/2019 08:32,20/11/2019,08:32:05,B,Servicio interrumpido por medida de fuerza gremial,178
+14/11/2019 21:28,14/11/2019,21:28:07,B,Servicio con demora por una formaci�n detenida debido a una causa t�cnica.,35
+14/11/2019 19:52,14/11/2019,19:52:07,B,Servicio Limitado entre las estaciones Juan Manuel de Rosas y Medrano,14
+12/11/2019 22:24,12/11/2019,22:24:04,B,Servicio con demora por una formaci�n detenida debido a una causa t�cnica.,96
+11/11/2019 16:10,11/11/2019,16:10:11,B,Servicio con demora por una formaci�n detenida debido a una causa t�cnica.,08
+8/11/2019 12:42,08/11/2019,12:42:14,B,Servicio limitado entre las estaciones Juan Manuel de Rosas y Carlos Pellegrini,53
+7/11/2019 19:50,07/11/2019,19:50:19,B,Servicio con demora debido a una causa t�cnica.,11
+5/11/2019 19:16,05/11/2019,19:16:13,B,Servicio con demora por una formaci�n detenida debido a una causa t�cnica.,32
+4/11/2019 21:52,04/11/2019,21:52:13,B,Servicio con demora por una formaci�n detenida debido a una causa t�cnica.,29
+4/11/2019 14:18,04/11/2019,14:18:07,B,Servicio con demora por factores clim�ticos.,202
+2/11/2019 20:40,02/11/2019,20:40:07,B,Servicio Limitado entre las estaciones Juan Manuel de Rosas y Medrano,16
+2/11/2019 20:38,02/11/2019,20:38:13,B,Servicio con demora por una formaci�n detenida debido a una causa t�cnica.,00
+31/10/2019 13:58,31/10/2019,13:58:06,B,Servicio con demora debido a la atenci�n m�dica a un usuario a bordo de formaci�n,08
+31/10/2019 12:06,31/10/2019,12:06:03,B,Servicio con demora debido a la atenci�n m�dica a un usuario.,12
+31/10/2019 11:44,31/10/2019,11:44:03,B,Servicio con demora por una formaci�n detenida debido a una causa t�cnica.,06
+29/10/2019 09:46,29/10/2019,09:46:07,B,Servicio con demora,06
+29/10/2019 08:42,29/10/2019,08:42:05,B,Servicio limitado entre las estaciones Juan Manuel de Rosas y Dorrego,60
+28/10/2019 00:28,28/10/2019,00:28:03,B,Los trenes no se detienen en la estaci�n Dorrego,88
+25/10/2019 21:24,25/10/2019,21:24:03,B,Servicio limitado entre las estaciones Alem - Gallardo y Lacroze - Rosas,29
+25/10/2019 21:12,25/10/2019,21:12:06,B,Servicio limitado entre las estaciones Alem - Galardo y Lacroze - Rosas,09
+25/10/2019 20:24,25/10/2019,20:24:07,B,Servicio limitado entre las estaciones Leandro N. Alem y Angel Gallardo,45
+23/10/2019 20:54,23/10/2019,20:54:05,B,Servicio con demora debido a una causa t�cnica.,27
+22/10/2019 18:36,22/10/2019,18:36:03,B,Servicio con demora,10
+22/10/2019 18:24,22/10/2019,18:24:12,B,Servicio limitado: Alem - A. Gallardo Dorrego - J.M. Rosas,06
+22/10/2019 18:02,22/10/2019,18:02:02,B,Servicio limitado entre las estaciones Alem - Gallardo y Dorrego-Rosas,20
+22/10/2019 18:00,22/10/2019,18:00:02,B,Servicio con demora debido a la atenci�n m�dica a un usuario a bordo de formaci�n,00
+22/10/2019 17:32,22/10/2019,17:32:11,B,Servicio con demora debido a la atenci�n m�dica a un usuario a bordo de formaci�n,09
+21/10/2019 21:42,21/10/2019,21:42:02,B,Servicio con demora debido a una causa t�cnica.,30
+19/10/2019 23:32,19/10/2019,23:32:04,B,Los trenes ya se detienen en todas las estaciones,02
+19/10/2019 22:20,19/10/2019,22:20:12,B,Los trenes no se detienen en C. Pellegrini por operativo de seguridad en superficie,69
+19/10/2019 19:34,19/10/2019,19:34:05,B,Trenes no se detienen en Carlos Pellegrini por operativo de seguridad en superficie,164
+19/10/2019 17:58,19/10/2019,17:58:04,B,Los trenes no se detienen en la estaci�n C. Pellegrini por operativo de seguridad,94
+18/10/2019 15:40,18/10/2019,15:40:16,B,Servicio con demora por formaci�n detenida debido a una causa t�cnica.,55
+16/10/2019 20:28,16/10/2019,20:28:11,B,Servicio con demora por formaci�n detenida debido a una causa t�cnica.,13
+13/10/2019 18:02,13/10/2019,18:02:03,B,Servicio con demora,22
+13/10/2019 17:58,13/10/2019,17:58:08,B,Servicio Limitado entre las estaciones JuanManuel de Rosas y Medrano,00
+12/10/2019 15:30,12/10/2019,15:30:12,B,Servicio con demora,15
+9/10/2019 23:12,09/10/2019,23:12:09,B,Servicio con demora,08
+9/10/2019 22:52,09/10/2019,22:52:10,B,Servicio limitado entre las estaciones Juan Manuel de Rosas y Carlos Pellegrini,13
+9/10/2019 22:46,09/10/2019,22:46:02,B,Servicio con demora por formaci�n detenida debido a una causa t�cnica.,04
+7/10/2019 20:32,07/10/2019,20:32:05,B,Servicio con demora debido a una causa t�cnica.,09
+3/10/2019 17:36,03/10/2019,17:36:06,B,Servicio con demora,15
+3/10/2019 17:28,03/10/2019,17:28:03,B,Servicio limitado entre las estaciones Juan Manuel de Rosas y Carlos Pellegrini,04
+3/10/2019 16:38,03/10/2019,16:38:13,B,Servicio con demora por procedimiento policial.,13
+2/10/2019 15:34,02/10/2019,15:34:09,B,Servicio limitado entre Alem - Gallardo y Dorrego-Rosas,07
+2/10/2019 15:26,02/10/2019,15:26:09,B,Servicio limitado entre las estaciones Leandro N. Alem y Angel Gallardo,06
+1/10/2019 20:00,01/10/2019,20:00:15,B,Servicio con demora debido a una causa t�cnica.,21
+23/9/2019 21:30,23/09/2019,21:30:09,B,Servicio con demora debido a un problema t�cnico en una formaci�n,18
+23/9/2019 20:44,23/09/2019,20:44:02,B,Servicio con demora,12
+23/9/2019 20:30,23/09/2019,20:30:13,B,Servicio limitado entre las estaciones Juan Manuel de Rosas y Carlos Pellegrini,05
+20/9/2019 23:46,20/09/2019,23:46:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,66
+19/9/2019 20:44,19/09/2019,20:44:05,B,Servicio con demora debido a un problema t�cnico en una formaci�n,56
+17/9/2019 21:30,17/09/2019,21:30:01,B,Servicio con demora debido a un problema t�cnico en una formaci�n,22
+13/9/2019 10:28,13/09/2019,10:28:03,B,Con demora debido a la atenci�n m�dica a un usuario a bordo de formaci�n,13
+12/9/2019 15:52,12/09/2019,15:52:03,B,Servicio con demora debido a un problema t�cnico en una formaci�n,12
+6/9/2019 16:14,06/09/2019,16:14:08,B,Servicio interrumpido por medida de fuerza gremial,227
+6/9/2019 16:02,06/09/2019,16:02:19,B,Interrumpida por medida de fuerza gremial,09
+3/9/2019 22:20,03/09/2019,22:20:05,B,Servicio con demora,02
+3/9/2019 22:00,03/09/2019,22:00:11,B,Servicio limitado entre L. N. Alem y Los Incas,13
+3/9/2019 21:58,03/09/2019,21:58:03,B,Servicio con demora debido a un problema t�cnico,00
+29/8/2019 21:58,29/08/2019,21:58:04,B,Servicio con demora,26
+29/8/2019 19:06,29/08/2019,19:06:10,B,Servicio Limitado entre J. M. de Rosas y Medrano,166
+29/8/2019 00:10,29/08/2019,00:10:13,B,Servicio interrumpido por medida de fuerza gremial,157
+28/8/2019 23:38,28/08/2019,23:38:08,B,Interrumpida por medida de fuerza gremial,30
+27/8/2019 12:14,27/08/2019,12:14:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,06
+24/8/2019 09:30,24/08/2019,09:30:13,B,Servicio limitado entre L. N. Alem y Los Incas,00
+20/8/2019 21:52,20/08/2019,21:52:02,B,Con demora debido a un problema operativo,06
+20/8/2019 19:20,20/08/2019,19:20:05,B,Servicio con demora,21
+20/8/2019 19:08,20/08/2019,19:08:02,B,Servicio limitado entre L. N. Alem y Federico Lacroze,08
+20/8/2019 17:20,20/08/2019,17:20:02,B,Servicio con demora,18
+20/8/2019 17:04,20/08/2019,17:04:10,B,Servicio limitado entre Alem - Gallardo y Dorrego-Rosas,10
+20/8/2019 17:00,20/08/2019,17:00:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,02
+16/8/2019 22:32,16/08/2019,22:32:03,B,Servicio con demora debido a un problema t�cnico,17
+16/8/2019 15:00,16/08/2019,15:00:02,B,Servicio con demora,24
+16/8/2019 14:54,16/08/2019,14:54:02,B,Servicio limitado entre Alem - Gallardo y Dorrego-Rosas,02
+16/8/2019 12:28,16/08/2019,12:28:14,B,Servicio con demora debido a un problema t�cnico,08
+16/8/2019 11:32,16/08/2019,11:32:04,B,Servicio con demora debido a un problema t�cnico,31
+15/8/2019 17:10,15/08/2019,17:10:03,B,Servicio con demora,08
+15/8/2019 16:56,15/08/2019,16:56:05,B,Servicio limitado entre L. N. Alem y Federico Lacroze,09
+14/8/2019 08:40,14/08/2019,08:40:05,B,Servicio interrumpido por medida de fuerza gremial,110
+14/8/2019 08:36,14/08/2019,08:36:02,B,Interrumpida por medida de fuerza gremial,02
+12/8/2019 20:34,12/08/2019,20:34:03,B,Servicio con demora debido a un problema t�cnico en una formaci�n,10
+12/8/2019 20:30,12/08/2019,20:30:10,B,Con demora por una formaci�n detenida debido a un problema t�cnico,01
+9/8/2019 22:14,09/08/2019,22:14:12,B,Servicio con demora debido a un problema t�cnico en una formaci�n,119
+8/8/2019 21:22,08/08/2019,21:22:06,B,Servicio limitado entre L. N. Alem y Los Incas,01
+8/8/2019 08:36,08/08/2019,08:36:11,B,Interrumpida por medida de fuerza gremial,105
+7/8/2019 21:58,07/08/2019,21:58:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,30
+7/8/2019 20:40,07/08/2019,20:40:11,B,Servicio con demora debido a un problema t�cnico en una formaci�n,00
+2/8/2019 21:36,02/08/2019,21:36:05,B,Servicio con demora debido a un problema t�cnico en una formaci�n,29
+31/7/2019 20:30,31/07/2019,20:30:02,B,Con demora por procedimiento policial,04
+29/7/2019 22:04,29/07/2019,22:04:02,B,Servicio con demora,20
+29/7/2019 21:32,29/07/2019,21:32:02,B,Servicio Limitado entre J. M. de Rosas y Medrano,26
+29/7/2019 21:28,29/07/2019,21:28:13,B,Servicio con demora debido a un problema t�cnico en una formaci�n,01
+26/7/2019 19:12,26/07/2019,19:12:02,B,Servicio con demora,00
+25/7/2019 19:44,25/07/2019,19:44:03,B,Servicio con demora debido a un problema t�cnico,72
+25/7/2019 11:42,25/07/2019,11:42:12,B,Con demora debido a la atenci�n m�dica a un usuario a bordo de formaci�n,17
+23/7/2019 18:48,23/07/2019,18:48:10,B,Servicio con demora debido a un problema t�cnico en una formaci�n,04
+22/7/2019 23:48,22/07/2019,23:48:12,B,Servicio con demora debido a un problema t�cnico en una formaci�n,22
+19/7/2019 23:42,19/07/2019,23:42:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,26
+15/7/2019 16:36,15/07/2019,16:36:10,B,Servicio con demora debido a un problema t�cnico en una formaci�n,11
+15/7/2019 15:02,15/07/2019,15:02:10,B,Servicio con demora debido a un problema t�cnico en una formaci�n,15
+15/7/2019 12:46,15/07/2019,12:46:03,B,Servicio con demora debido a un problema t�cnico en una formaci�n,18
+14/7/2019 14:20,14/07/2019,14:20:05,B,Servicio limitado: L.N.Alem - A. Gallardo y F. Lacroze - J.M.de Rosas,34
+14/7/2019 14:12,14/07/2019,14:12:02,B,Servicio limitado entre L. N. Alem y Angel Gallardo,06
+12/7/2019 22:50,12/07/2019,22:50:02,B,Con demora debido a la atenci�n m�dica a un usuario a bordo de formaci�n,10
+11/7/2019 21:38,11/07/2019,21:38:06,B,Servicio con demora debido a un problema t�cnico en una formaci�n,72
+11/7/2019 00:16,11/07/2019,00:16:05,B,Servicio Limitado entre J. M. de Rosas y Medrano,08
+6/7/2019 23:42,06/07/2019,23:42:02,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,36
+5/7/2019 20:50,05/07/2019,20:50:12,B,Servicio con demora,00
+5/7/2019 20:40,05/07/2019,20:40:11,B,Servicio limitado entre L. N. Alem y Angel Gallardo,03
+5/7/2019 20:38,05/07/2019,20:38:11,B,Servicio con demora debido a la atenci�n m�dica a un usuario,00
+5/7/2019 10:44,05/07/2019,10:44:10,B,Servicio con demora debido a un problema t�cnico en una formaci�n,15
+5/7/2019 09:00,05/07/2019,09:00:12,B,Servicio con demora,29
+5/7/2019 08:32,05/07/2019,08:32:11,B,Interrupci�n debido a un problema t�cnico en una formaci�n,19
+4/7/2019 20:40,04/07/2019,20:40:02,B,Servicio con demora,102
+4/7/2019 19:48,04/07/2019,19:48:09,B,Servicio con demora debido a un problema t�cnico en una formaci�n,25
+3/7/2019 01:34,03/07/2019,01:34:10,B,Servicio normalizado,00
+3/7/2019 01:26,03/07/2019,01:26:04,B,Con demora hacia J. M. de Rosas debido a un problema t�cnico,05
+2/7/2019 21:50,02/07/2019,21:50:06,B,Servicio con demora,05
+2/7/2019 20:52,02/07/2019,20:52:11,B,Servicio con demora debido a un problema t�cnico,09
+2/7/2019 19:20,02/07/2019,19:20:08,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,10
+2/7/2019 17:30,02/07/2019,17:30:02,B,Servicio con demora,18
+2/7/2019 17:20,02/07/2019,17:20:02,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,06
+2/7/2019 10:26,02/07/2019,10:26:02,B,Servicio con demora,09
+2/7/2019 10:14,02/07/2019,10:14:07,B,Servicio limitado entre L. N. Alem y Los Incas,08
+2/7/2019 08:46,02/07/2019,08:46:01,B,Servicio limitado entre L. N. Alem y Los Incas,06
+26/6/2019 12:18,26/06/2019,12:18:10,B,Servicio con demora debido a un problema t�cnico en una formaci�n,13
+25/6/2019 21:40,25/06/2019,21:40:12,B,Servicio con demora,07
+25/6/2019 21:34,25/06/2019,21:34:02,B,Servicio Limitado entre J. M. de Rosas y Medrano,00
+25/6/2019 21:28,25/06/2019,21:28:07,B,Servicio con demora,03
+25/6/2019 12:46,25/06/2019,12:46:02,B,Servicio con demora,32
+25/6/2019 12:14,25/06/2019,12:14:08,B,Servicio limitado entre L. N. Alem y Los Incas,25
+25/6/2019 11:32,25/06/2019,11:32:07,B,Servicio con demora debido a un problema t�cnico en una formaci�n,40
+24/6/2019 23:00,24/06/2019,23:00:10,B,Servicio con demora debido a un problema t�cnico,50
+24/6/2019 19:40,24/06/2019,19:40:11,B,Servicio con demora debido a un problema t�cnico,07
+18/6/2019 12:38,18/06/2019,12:38:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,10
+18/6/2019 11:16,18/06/2019,11:16:09,B,Servicio con demora,41
+18/6/2019 10:42,18/06/2019,10:42:09,B,Los trenes no se detienen en Pueyrred�n con destino a J. M. de Rosas,29
+16/6/2019 15:44,16/06/2019,15:44:10,B,Interrumpida por falta de suministro de energ�a el�ctrica debido a causas ajenas,540
+14/6/2019 18:26,14/06/2019,18:26:05,B,Servicio con demora,47
+14/6/2019 18:16,14/06/2019,18:16:03,B,Servicio Limitado entre J. M. de Rosas y Medrano,06
+14/6/2019 18:12,14/06/2019,18:12:05,B,Servicio con demora debido a la atenci�n m�dica a un usuario,02
+12/6/2019 23:52,12/06/2019,23:52:03,B,Servicio con demora,48
+12/6/2019 21:02,12/06/2019,21:02:03,B,Servicio Limitado entre J. M. de Rosas y Medrano,166
+12/6/2019 20:50,12/06/2019,20:50:12,B,Servicio con demora debido a un problema t�cnico en una formaci�n,09
+10/6/2019 21:10,10/06/2019,21:10:02,B,Servicio con demora,20
+10/6/2019 20:54,10/06/2019,20:54:09,B,Servicio Limitado entre J. M. de Rosas y Medrano,11
+9/6/2019 11:48,09/06/2019,11:48:05,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,09
+8/6/2019 15:02,08/06/2019,15:02:04,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,26
+7/6/2019 22:12,07/06/2019,22:12:02,B,Servicio con demora,15
+31/5/2019 21:42,31/05/2019,21:42:04,B,Servicio con demora,93
+31/5/2019 21:22,31/05/2019,21:22:03,B,Servicio Limitado entre J. M. de Rosas y Medrano,15
+31/5/2019 21:16,31/05/2019,21:16:10,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,03
+31/5/2019 18:32,31/05/2019,18:32:02,B,Los trenes no se detienen en Medrano,162
+31/5/2019 17:58,31/05/2019,17:58:03,B,Los trenes no se detienen en Medrano,32
+31/5/2019 17:34,31/05/2019,17:34:03,B,Trenes con destino a Juan Manuel de Rosas no se detienen en Medrano,22
+29/5/2019 08:26,29/05/2019,08:26:11,B,Servicio interrumpido por medida de fuerza gremial,1231
+28/5/2019 15:56,28/05/2019,15:56:03,B,Servicio Limitado entre J. M. de Rosas y Medrano,02
+28/5/2019 15:54,28/05/2019,15:54:02,B,Servicio con demora debido a la atenci�n m�dica a un usuario,00
+27/5/2019 20:30,27/05/2019,20:30:11,B,Servicio con demora debido a un problema t�cnico en una formaci�n,15
+27/5/2019 14:38,27/05/2019,14:38:11,B,Servicio con demora,21
+27/5/2019 14:22,27/05/2019,14:22:02,B,Servicio limitado entre Alem - Gallardo y Dorrego-Rosas,12
+27/5/2019 14:14,27/05/2019,14:14:09,B,Servicio con demora debido a un problema t�cnico en una formaci�n,06
+24/5/2019 21:58,24/05/2019,21:58:03,B,Servicio con demora,16
+24/5/2019 11:52,24/05/2019,11:52:10,B,Servicio con demora debido a la atenci�n m�dica a un usuario,09
+24/5/2019 11:34,24/05/2019,11:34:04,B,Con demora debido a la atenci�n m�dica a un usuario a bordo de formaci�n,16
+22/5/2019 21:28,22/05/2019,21:28:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,38
+21/5/2019 09:48,21/05/2019,09:48:01,B,Servicio con demora debido a un problema t�cnico,20
+15/5/2019 16:46,15/05/2019,16:46:09,B,Servicio con demora,15
+11/5/2019 23:58,11/05/2019,23:58:10,B,Servicio limitado entre L. N. Alem y Los Incas,68
+10/5/2019 17:02,10/05/2019,17:02:04,B,Servicio con demora,16
+10/5/2019 16:34,10/05/2019,16:34:02,B,Servicio limitado entre Alem - Gallardo y Dorrego-Rosas,22
+10/5/2019 16:28,10/05/2019,16:28:03,B,Servicio limitado entre L. N. Alem y Angel Gallardo,04
+10/5/2019 16:22,10/05/2019,16:22:08,B,Servicio con demora debido a un problema t�cnico,04
+10/5/2019 14:14,10/05/2019,14:14:10,B,Servicio con demora,11
+10/5/2019 13:56,10/05/2019,13:56:02,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,14
+10/5/2019 13:44,10/05/2019,13:44:04,B,Servicio con demora debido a un problema t�cnico en una formaci�n,10
+9/5/2019 21:52,09/05/2019,21:52:10,B,Servicio con demora por anegamiento de v�as,91
+8/5/2019 13:24,08/05/2019,13:24:09,B,Servicio con demora debido a un problema t�cnico en una formaci�n,19
+7/5/2019 13:50,07/05/2019,13:50:12,B,Servicio con demora,09
+7/5/2019 13:40,07/05/2019,13:40:11,B,Servicio limitado entre Alem - Gallardo y Dorrego-Rosas,05
+7/5/2019 13:34,07/05/2019,13:34:02,B,Servicio limitado entre L. N. Alem y Angel Gallardo,04
+7/5/2019 13:32,07/05/2019,13:32:10,B,Con demora debido a la atenci�n m�dica a un usuario a bordo de formaci�n,00
+6/5/2019 11:06,06/05/2019,11:06:02,B,Servicio con demora debido a la atenci�n m�dica a un usuario,08
+4/5/2019 14:48,04/05/2019,14:48:09,B,Servicio Limitado entre J. M. de Rosas y Medrano,76
+4/5/2019 14:40,04/05/2019,14:40:09,B,Servicio interrumpido,05
+3/5/2019 13:46,03/05/2019,13:46:02,B,Servicio con demora,12
+3/5/2019 12:38,03/05/2019,12:38:09,B,Servicio Limitado entre J. M. de Rosas y Medrano,61
+2/5/2019 08:42,02/05/2019,08:42:03,B,Interrupci�n debido a un problema t�cnico,07
+30/4/2019 08:42,30/04/2019,08:42:09,B,Servicio interrumpido por medida de fuerza gremial,2531
+16/4/2019 11:52,16/04/2019,11:52:09,B,Servicio con demora debido a un problema t�cnico en una formaci�n,30
+15/4/2019 15:58,15/04/2019,15:58:11,B,Servicio limitado entre L. N. Alem y Angel Gallardo,05
+15/4/2019 09:58,15/04/2019,09:58:03,B,Servicio con demora debido a un problema t�cnico en una formaci�n,30
+11/4/2019 12:30,11/04/2019,12:30:07,B,Con demora debido a la atenci�n m�dica a un usuario a bordo de formaci�n,06
+10/4/2019 14:44,10/04/2019,14:44:12,B,Con demora por una formaci�n detenida debido a un problema t�cnico,05
+9/4/2019 12:18,09/04/2019,12:18:02,B,Servicio con demora,02
+8/4/2019 21:52,08/04/2019,21:52:03,B,Servicio con demora,64
+8/4/2019 21:40,08/04/2019,21:40:20,B,Servicio limitado entre L.N. Alem y Los Incas,07
+8/4/2019 21:30,08/04/2019,21:30:10,B,Servicio limitado entre L. N. Alem y Los Incas,07
+8/4/2019 15:52,08/04/2019,15:52:09,B,Servicio con demora debido a un problema t�cnico en una formaci�n,18
+8/4/2019 11:20,08/04/2019,11:20:05,B,Servicio con demora debido a la atenci�n m�dica a un usuario,20
+31/3/2019 19:14,31/03/2019,19:14:07,B,Servicio con demora,22
+28/3/2019 22:44,28/03/2019,22:44:02,B,Servicio con demora,52
+28/3/2019 22:10,28/03/2019,22:10:04,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,24
+28/3/2019 21:56,28/03/2019,21:56:02,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,10
+28/3/2019 19:22,28/03/2019,19:22:02,B,Servicio con demora debido a un problema t�cnico,06
+28/3/2019 16:34,28/03/2019,16:34:04,B,Servicio con demora debido a un problema t�cnico,09
+26/3/2019 19:48,26/03/2019,19:48:02,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,14
+26/3/2019 19:46,26/03/2019,19:46:07,B,Servicio con demora debido a un problema t�cnico en una formaci�n,00
+25/3/2019 19:00,25/03/2019,19:00:07,B,Servicio Limitado entre Rosas y Florida por operativo de seguridad en la v�a p�blica,477
+25/3/2019 14:32,25/03/2019,14:32:09,B,Servicio con demora,09
+21/3/2019 10:18,21/03/2019,10:18:10,B,Servicio con demora debido a un problema t�cnico en una formaci�n,17
+20/3/2019 14:08,20/03/2019,14:08:07,B,Servicio con demora debido a un problema t�cnico,09
+20/3/2019 13:56,20/03/2019,13:56:11,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,05
+18/3/2019 14:18,18/03/2019,14:18:09,B,Por atenci�n m�dica a un usuario Los trenes no se detienen en Pueyrred�n,167
+18/3/2019 13:54,18/03/2019,13:54:08,B,Los trenes no se detienen en Pueyrred�n,21
+13/3/2019 21:46,13/03/2019,21:46:01,B,Servicio Limitado entre J. M. de Rosas y Medrano,06
+11/3/2019 16:24,11/03/2019,16:24:09,B,Servicio con demora debido a un problema t�cnico,12
+8/3/2019 16:38,08/03/2019,16:38:10,B,Servicio con demora,37
+3/3/2019 11:52,03/03/2019,11:52:05,B,Servicio Limitado entre J. M. de Rosas y Medrano,23
+2/3/2019 11:56,02/03/2019,11:56:06,B,Los trenes no se detienen en Uruguay,59
+27/2/2019 21:32,27/02/2019,21:32:04,B,Servicio con demora debido a un problema t�cnico,68
+27/2/2019 20:38,27/02/2019,20:38:05,B,Servicio con demora debido a un problema t�cnico,17
+27/2/2019 20:34,27/02/2019,20:34:03,B,Servicio con demora debido a un problema t�cnico en una formaci�n,01
+27/2/2019 13:00,27/02/2019,13:00:08,B,Servicio con demora debido a un problema t�cnico,41
+27/2/2019 12:08,27/02/2019,12:08:05,B,Servicio con demora,46
+27/2/2019 11:54,27/02/2019,11:54:05,B,Interrupci�n debido a un problema t�cnico en una formaci�n,08
+27/2/2019 11:52,27/02/2019,11:52:03,B,Servicio con demora debido a un problema t�cnico en una formaci�n,00
+13/2/2019 20:26,13/02/2019,20:26:07,B,Servicio con demora debido a un problema t�cnico en una formaci�n,07
+13/2/2019 20:08,13/02/2019,20:08:02,B,Interrupci�n debido a un problema t�cnico en una formaci�n,14
+13/2/2019 20:04,13/02/2019,20:04:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,02
+12/2/2019 13:36,12/02/2019,13:36:07,B,Servicio Limitado entre J. M. de Rosas y Medrano,237
+11/2/2019 21:26,11/02/2019,21:26:02,B,Con demora debido a un problema operativo,10
+8/2/2019 17:58,08/02/2019,17:58:03,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,08
+6/2/2019 15:48,06/02/2019,15:48:09,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,08
+1/2/2019 10:22,01/02/2019,10:22:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,04
+29/1/2019 18:18,29/01/2019,18:18:10,B,Servicio limitado entre Juan Manuel de Rosas y Carlos Pellegrini,21
+22/1/2019 23:36,22/01/2019,23:36:08,B,Servicio con demora,67
+22/1/2019 21:38,22/01/2019,21:38:09,B,Interrumpida por falta de suministro de energ�a el�ctrica debido a causas ajenas,111
+16/1/2019 12:42,16/01/2019,12:42:02,B,Los trenes no se detienen en Uruguay con destino a L. N. Alem,26
+16/1/2019 10:42,16/01/2019,10:42:08,B,Los trenes no se detienen en Uruguay con destino a L. N. Alem,117
+16/1/2019 09:42,16/01/2019,09:42:02,B,Los trenes no se detienen en Uruguay con destino a L. N. Alem,58
+16/1/2019 08:42,16/01/2019,08:42:04,B,Los trenes no se detienen en Uruguay con destino a L. N. Alem,58
+16/1/2019 00:02,16/01/2019,00:02:08,B,Los trenes no se detienen en Uruguay con destino a L. N. Alem,129
+15/1/2019 23:46,15/01/2019,23:46:08,B,Los trenes no se detienen en Uruguay con destino a L. N. Alem,14
+15/1/2019 23:34,15/01/2019,23:34:04,B,Los trenes no se detienen en Uruguay,09
+15/1/2019 20:58,15/01/2019,20:58:08,B,Con demora por factores clim�ticos,153
+13/1/2019 13:18,13/01/2019,13:18:02,B,Los trenes no se detienen en Callao con destino a L. N. Alem,182
+12/1/2019 15:56,12/01/2019,15:56:02,B,Servicio limitado entre L. N. Alem y Federico Lacroze,40
+9/1/2019 20:20,09/01/2019,20:20:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,04
+8/1/2019 21:32,08/01/2019,21:32:02,B,Servicio con demora debido a un problema t�cnico en una formaci�n,24
+4/1/2019 21:38,04/01/2019,21:38:11,B,Servicio con demora debido a un problema t�cnico en una formaci�n,19
+2/1/2019 13:48,02/01/2019,13:48:03,B,Servicio con demora debido a un problema t�cnico en una formaci�n,20
