@@ -1313,7 +1313,6 @@ FECHA,HORA,LÍNEA,MOTIVO,DURACION
 9/4/2019,17:14:09,H,Servicio con demora debido a un problema tecnico en una formacion,00:01:53
 18/7/2019,13:20:13,H,Servicio limitado entre las estaciones Facultad de Derecho y Corrientes,00:01:49
 12/11/2019,19:22:16,H,Servicio con demora debido a una causa tecnica,00:01:48
-
 27/3/2019;17:08:02;A;Servicio con demora debido a un problema tecnico;00:26:08
 18/11/2019;11:20:17;A;Servicio interrumpido;00:25:57
 3/11/2019;19:58:02;A;Servicio limitado entre Plaza de Mayo y Loria;00:24:12
